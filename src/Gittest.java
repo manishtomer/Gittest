@@ -3,5 +3,8 @@
  */
 public class Gittest {
   
-  changes done on git and pushed
+  /*changes done on git and pulled
+  changes done in local and pushed
+   */
+
 }
